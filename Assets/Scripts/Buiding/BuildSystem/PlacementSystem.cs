@@ -5,7 +5,7 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.UI;
 
-public class BuilderSystem : MonoBehaviour
+public class PlacementSystem : MonoBehaviour
 {
 
     Vector2 mousePos;
@@ -19,7 +19,6 @@ public class BuilderSystem : MonoBehaviour
     public RawImage currIconDisplay;
     public TMP_Text currNameDisplay;
     int placeableIndex;
-
 
     public LayerMask mask;
 

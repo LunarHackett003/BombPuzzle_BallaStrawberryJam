@@ -659,9 +659,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BuilderSystem
   gridBoxHit: {x: 0, y: 0, z: 0}
-  placeables:
-  - {fileID: 11400000, guid: 53e99ba0adff38e4f89171e63f0cee13, type: 2}
-  - {fileID: 11400000, guid: eac6cd76e9f5830459ad1b9ccc7aafd6, type: 2}
+  placeables: []
   currIconDisplay: {fileID: 679994445}
   currNameDisplay: {fileID: 1591610013}
   mask:
