@@ -1,0 +1,16 @@
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : CoreObject
+{
+    public override void Interacted()
+    {
+        
+    }
+
+    protecte override void ObjectAction()
+    {
+    
+    }
+}
+#ROOTNAMESPACEEND#
